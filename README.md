@@ -9,6 +9,9 @@
 <a href="https://github.com/tiwarishubham635">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://leetcode.com/tiwarishubham635/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"  />
+</a>
 
 <br />
 
