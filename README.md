@@ -3,16 +3,16 @@
 
 ### 🌐 Connect with me : 
 <a href="https://www.linkedin.com/in/tiwarishubham635/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg"  />
 </a>
 <a href="mailto:tiwarishubham635@gmail.com">
   <img align="left" width="26px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" />
 </a>
 <a href="https://github.com/tiwarishubham635">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" width="26px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" />
 </a>
 <a href="https://leetcode.com/tiwarishubham635/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"  />
+  <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/leetcode.svg"  />
 </a>
 
 <br />
