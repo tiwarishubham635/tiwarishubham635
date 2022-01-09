@@ -18,8 +18,8 @@
   <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg"  />
 </a>
 
-<a href="https://twitter.com/tiwarishubham63?t=0F7eGT4anqayfbBXnWmOow&s=08/">
-  <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hackerman.gif"  />
+<a href="https://tiwarishubham635.github.io/My-Portfolio-Website/">
+  <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif"  />
 </a>
 
 <br />
