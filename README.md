@@ -14,11 +14,8 @@
 <a href="mailto:tiwarishubham635@gmail.com">
   <img align="left" width="26px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" />
 </a>
-<a href="https://github.com/tiwarishubham635">
-  <img align="left" width="26px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" />
-</a>
-<a href="https://leetcode.com/tiwarishubham635/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"  />
+<a href="https://twitter.com/tiwarishubham63?t=0F7eGT4anqayfbBXnWmOow&s=08/">
+  <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg"  />
 </a>
 
 <br />
