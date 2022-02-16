@@ -1,5 +1,6 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shubham
 ### I am a Computer Science Enthusiast with key interest in AI
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=400 />
 
 ### About Me 🚀
 - 👨‍🎓 I am a pre-final year student of CSAI at **NSUT, Delhi**.
