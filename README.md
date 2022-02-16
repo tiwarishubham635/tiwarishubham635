@@ -27,10 +27,10 @@
 **Statistics:**
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=tiwarishubham635&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Shubham's Github Stats">
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiwarishubham635&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Shubham's Github Stats">
+<br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarishubham635&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Shubham's Github Stats" />
-<br>
+<br/>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarishubham635&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Shubham's Github Stats" />
 <br />
 <br />
