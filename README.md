@@ -23,7 +23,7 @@
   <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif"  />
 </a>
 
-
+<br/>
 **Statistics:**
 <br />
 <br />
