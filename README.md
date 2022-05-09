@@ -23,8 +23,8 @@
   <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif"  />
 </a>
 
-<br/>
-**Statistics:**
+
+### Statistics:
 <br />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiwarishubham635&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Shubham's Github Stats">
