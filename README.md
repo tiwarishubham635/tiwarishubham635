@@ -76,6 +76,3 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarishubham635&count_private=true&theme=dark&show_icons=true" alt="Shubham's Github Stats" />
 <br/>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarishubham635&count_private=true&theme=dark&icon_color=fad000&layout=compact" alt="Shubham's Github Stats" />
-<br />
-<br />
