@@ -1,14 +1,6 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shubham
 ### I am a Computer Science Enthusiast with key interest in AI
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=400 />
 
-### About Me 🚀
-- 👨‍🎓 I am a pre-final year student of CSAI at **NSUT, Delhi**.
-- 💻 I have worked in React, Node, Firebase and all the **MERN stack**
-- 💡 I am **currently learning** Machine Learning and Network Security concepts
-- 👨‍💻 I am passionate about Artificial Intelligence, Machine Learning and the concept of self-reliant systems & I enjoy learning new things. </br>
-
-### 🌐 Connect with me : 
 <a href="https://www.linkedin.com/in/tiwarishubham635/">
   <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg"  />
 </a>
@@ -20,18 +12,45 @@
 </a>
 
 <a href="https://tiwarishubham635.github.io/My-Portfolio-Website/">
-  <img align="left" width="24px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif"  />
+  <img align="left" width="24px" src="https://github.com/tiwarishubham635/tiwarishubham635/blob/main/website.svg"  />
 </a>
 
-
-**Statistics:**
-<br />
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiwarishubham635&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Shubham's Github Stats">
-<br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarishubham635&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Shubham's Github Stats" />
-<br/>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarishubham635&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Shubham's Github Stats" />
-<br />
-<br />
 ![](https://komarev.com/ghpvc/?username=tiwarishubham635&color=fad000)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=400 />
+
+
+### About Me 🚀
+- 👨‍🎓 I am a pre-final year student of CSAI at **NSUT, Delhi**.
+- 💻 I have worked in React, Node, Firebase and all the **MERN stack**
+- 💡 I am **currently learning** Machine Learning and Network Security concepts
+- 👨‍💻 I am passionate about Artificial Intelligence, Machine Learning and the concept of self-reliant systems & I enjoy learning new things. </br>
+
+### Languages and Tools 💼
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### Statistics:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tiwarishubham635&show_icons=true&hide_border=true&count_private=true&theme=dark&show_icons=true" alt="Shubham's Github Stats"/>
+<br/>
+<br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiwarishubham635&count_private=true&theme=dark&show_icons=true" alt="Shubham's Github Stats" />
+<br/>
+<br/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwarishubham635&count_private=true&theme=dark&icon_color=fad000&layout=compact" alt="Shubham's Github Stats" />
+<br />
+<br />
