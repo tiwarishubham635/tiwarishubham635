@@ -20,10 +20,10 @@
 
 
 ### About Me 🚀
-- 👨‍🎓 I am a pre-final year student of CSAI at **NSUT, Delhi**.
-- 💻 I have worked in React, Node, Firebase and all the **MERN stack**
-- 💡 I am **currently learning** Machine Learning and Network Security concepts
-- 👨‍💻 I am passionate about Artificial Intelligence, Machine Learning and the concept of self-reliant systems & I enjoy learning new things. </br>
+- 👨‍🎓 I am a final year student of CSE(AI) at **NSUT, Delhi**.
+- 💻 I have expereince working in HTML, CSS, JavaScript and Development frameworks like React, Node and Flask as well as ML frameworks like Tensorflow, Keras, OpenCV, Sklearn, Numpy, Pandas, Matplotlib etc.
+- 💡 I am **currently exploring** the design principles in Software Engineering
+- 👨‍💻 I am passionate about Artificial Intelligence, Deep Learning and I enjoy learning new things. </br>
 
 ### Languages and Tools 💼
 <code>
