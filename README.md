@@ -69,7 +69,7 @@
 <code>
   <img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/heroku/heroku.png"></code>
 
-### Statistics:
+### Statistics 📈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tiwarishubham635&show_icons=true&hide_border=true&count_private=true&theme=dark&show_icons=true" alt="Shubham's Github Stats"/>
 <br/>
 <br/>
